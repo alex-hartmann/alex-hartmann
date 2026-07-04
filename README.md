@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer (Junior) | PHP • Vue.js • PostgreSQL</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-27-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Age-29-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Curitiba%2C%20Brazil-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Available%20for-Freelance%20%7C%20Remote-yellow?style=flat-square" />
   <img src="https://img.shields.io/badge/English-Technical%20(Reading%2FWriting)-lightgrey?style=flat-square" />
